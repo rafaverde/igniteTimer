@@ -113,7 +113,7 @@ export const StartCountDownButton = styled.button`
   font-weight: 700;
 
   &:disabled {
-    opacity: 0.7;
+    opacity: 0.5;
     cursor: not-allowed;
   }
 
